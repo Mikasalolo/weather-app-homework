@@ -53,9 +53,8 @@ li first-letter {
   line-height: 1;
 }
 
-.weather-temperature.units {
+.weather-temperature .units {
   position: relative;
   font-size: 16px;
   top: -34px;
-  display: inline-block;
 }
